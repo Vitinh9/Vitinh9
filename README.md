@@ -76,7 +76,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Vitinh9/Vitinh9/output/snake.svg" alt="Snake animation" />
 
 ###
 
