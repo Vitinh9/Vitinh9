@@ -1,6 +1,16 @@
-<div align="center">
-  <img height="500" src="https://i.imgflip.com/8izg8l.gif"  />
-</div>
+<h1 align="center">Bem-vindo ao meu Perfil ! 👋</h1>
+
+###
+
+<p align="left">Olá! Me chamo João Victor Gomes De Souza e estou muito feliz em receber você aqui no meu perfil do GitHub. Sou um entusiasta da tecnologia com sede de conhecimento e apaixonado por desenvolvimento de software. Atualmente, estou em busca de oportunidades de emprego na área de tecnologia para colocar em prática meus conhecimentos e contribuir para projetos inovadores.</p>
+
+###
+
+<h2 align="left">Sobre Mim</h2>
+
+###
+
+<p align="left">•🎓 Tenho 20 anos de idade e estou cursando Análise e Desenvolvimento de Sistemas.<br>   •💼 Estou em busca ativa de oportunidades de emprego na área de tecnologia, onde possa aplicar meus conhecimentos e crescer profissionalmente.<br>   •💻 Tenho interesse em diversas áreas da tecnologia, desde desenvolvimento web e mobile até inteligência artificial e ciência de dados.<br>    •🌱 Estou constantemente estudando e aprimorando minhas habilidades em diferentes linguagens de programação, frameworks e tecnologias.</p>
 
 ###
 
@@ -8,31 +18,22 @@
 
 ###
 
+<h2 align="center">Conhecimentos</h2>
+
+###
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vitinh9&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vitinh9&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img height="200" src="https://i.imgflip.com/8izmpe.gif"  />
 </div>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/joao-victor-g/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<p align="center">Linguagens de Desenvolvimento</p>
 
 ###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" height="40" alt="nodejs logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" alt="java logo"  />
 </div>
 
 ###
@@ -47,23 +48,15 @@
 
 ###
 
-<p align="center">Ferramentas de Banco de Dados</p>
-
-###
-
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="40" alt="microsoftsqlserver logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
 </div>
-
-###
-
-<p align="center">IDEs Utilizadas</p>
 
 ###
 
@@ -71,6 +64,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vitinh9&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="500" src="https://i.imgflip.com/8izg8l.gif"  />
 </div>
 
 ###
